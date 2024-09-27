@@ -56,6 +56,8 @@ GitHub Repository:
 
 [![](https://img.shields.io/badge/GitHub_Repository-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LAIBAASIM555/Nexariza_Stock_Portfolio_Tracker)
 
+## Result
+![Figure_1](https://github.com/user-attachments/assets/7e246e4a-9e95-4848-b6a8-f5ce1d437d81)
 
 ## Contribution Guidelines 🤝
 Contributions are welcome! If you have suggestions or want to contribute to improving this project
